@@ -1,0 +1,12 @@
+{
+  "name": "web3-example",
+  "version": "1.0.0",
+  "description": "A simple Web3 example project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
